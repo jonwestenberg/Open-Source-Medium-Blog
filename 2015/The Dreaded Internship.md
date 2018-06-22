@@ -1,6 +1,6 @@
-#The Dreaded Internship…
+# The Dreaded Internship…
 
-Some insights from inside
+## Some insights from inside
 
 Graduates starting out in the work force are confronted with a shopping list of obstacles and difficulties. In many fields, the number of positions is staggeringly small and the competition high. Adding to this is the dreaded internship.
 
